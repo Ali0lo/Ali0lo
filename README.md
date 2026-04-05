@@ -16,9 +16,7 @@ class AliIskandarli:
     def __init__(self):
         self.name        = "Ali Iskandarli"
         self.role        = "AI / ML Engineer"
-        self.education   = "Computer Engineering @ Baku Higher Oil School (2023–2028)"
-        self.location    = "Baku, Azerbaijan 🇦🇿"
-        self.languages   = ["Azerbaijani (Native)", "English (C1)", "Turkish (C1)"]
+        self.education   = "Computer Engineering @ Baku Higher Oil School "
         self.focus       = ["RAG Systems", "NLP", "Computer Vision", "Chatbots"]
         self.contact     = "alii.iskandarlii@gmail.com"
 
