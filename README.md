@@ -1,10 +1,8 @@
-<div align="center">
-
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ali+Iskandarli+%F0%9F%91%8B;AI+%2F+ML+Engineer;Building+Intelligent+Systems;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Iskandarli+%F0%9F%91%8B;AI+%2F+ML+Engineer;RAG+%7C+NLP+%7C+Computer+Vision;Turning+Data+into+Decisions)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=Ali0lo&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="profile views"/>
-
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Ali0lo&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
 </div>
 
 ---
@@ -14,65 +12,85 @@
 ```python
 class AliIskandarli:
     def __init__(self):
-        self.name        = "Ali Iskandarli"
         self.role        = "AI / ML Engineer"
-        self.education   = "Computer Engineering @ Baku Higher Oil School "
-        self.focus       = ["RAG Systems", "NLP", "Computer Vision", "Chatbots"]
+        self.education   = ["Baku Higher Oil School (B.Sc. Computer Engineering)",
+                            "Holberton School — Machine Learning Program"]
+        self.focus       = ["RAG Systems", "NLP", "Computer Vision", "LLMs"]
+        self.experience  = "SOCAR IT & Communication Department"
         self.contact     = "alii.iskandarlii@gmail.com"
 
     def say_hi(self):
-        print("Passionate about building AI that solves real-world problems.")
-
-me = AliIskandarli()
-me.say_hi()
+        print("Building AI that solves real-world problems.")
 ```
+
+---
+
+## 💼 Work Experience
+
+**SOCAR IT & Communication Department** — *Help-Desk Manager* · Jun – Jul 2025
+- Diagnosed and resolved software and hardware issues for internal users in a large-scale enterprise IT environment
+- Documented recurring problems and contributed to a knowledge base for faster future triage
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🤖 AI Legal Assistant — *Ailə Məcəlləsi* (Family Code)
-> A Telegram chatbot that answers legal questions based on Azerbaijan's Family Code using **RAG architecture**.  
+### 🤖 AI Legal Assistant — *Ailə Məcəlləsi*
+> RAG-based Telegram chatbot answering legal questions grounded in Azerbaijan's Family Code.
+> **Stack:** Python · LangChain · FAISS · Embeddings · Telegram API
 > 📲 **Live:** [@ailemecellesi_bot](https://t.me/ailemecellesi_bot)
 
 ---
 
-### 📞 FAQ Chatbot for Azercell
-> Prototype intelligent FAQ assistant for one of Azerbaijan's largest telecom providers.  
-> Designed to handle high-volume customer queries with contextual understanding.
+### 🎯 RoleForge — Career Reality Simulator
+> Analyzes your CV against real job requirements, calculates a role-readiness score, identifies critical skill gaps, and generates a personalized learning roadmap with timeline estimates.
+> **Stack:** Python · OpenAI API · Streamlit · NLP
+> 🌐 **Live:** [roleforge.streamlit.app](https://roleforge.streamlit.app)
 
 ---
 
-### 🖋️ OCR Model for SOCAR Handwritten Letters
-> Built a custom **Optical Character Recognition** model to digitize and process ancient handwritten documents for SOCAR — Azerbaijan's national oil company.  
-> Solved a real archival challenge with computer vision.
+### 👥 Student Recommender System
+> Similarity-based recommendation engine matching students by interests and attributes, with a live Streamlit UI for real-time results.
+> **Stack:** Python · Pandas · Scikit-learn · Streamlit
+
+---
+
+### 🖋️ OCR Model — SOCAR Historical Archives
+> Custom OCR pipeline to digitize handwritten historical documents for SOCAR's archives. Applied image preprocessing (denoising, binarization) and deep learning for text extraction.
+> **Stack:** Python · TensorFlow · CNNs · Image Processing
+
+---
+
+### 📞 FAQ Chatbot Prototype — Azercell Telecom
+> Intelligent FAQ assistant for Azerbaijan's largest telecom provider, focused on intent recognition and reducing operator workload.
+> **Stack:** Python · NLP · Intent Classification
 
 ---
 
 ### 🏠 House Price Prediction — Kaggle
-> End-to-end ML pipeline for predicting house prices. Feature engineering, model selection, and evaluation on real Kaggle dataset.
+> End-to-end regression pipeline with feature engineering, data cleaning, and cross-validated evaluation.
+> **Stack:** Python · Scikit-learn · Pandas
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
-
-</div>
-
 | Domain | Tools & Concepts |
 |---|---|
-| 🤖 AI / ML | TensorFlow, CNNs, Embeddings, Prompt Engineering |
-| 📊 Data Science | Pandas, Data Preprocessing, Feature Engineering |
-| 🏗️ Architecture | RAG (Retrieval-Augmented Generation), Docker |
-| 🔤 NLP | Chatbots, OCR, Language Models |
+| **Languages & Data** | Python · Pandas · NumPy · SQL |
+| **ML & AI** | TensorFlow · Scikit-learn · CNNs · Feature Engineering |
+| **LLM & RAG** | LangChain · FAISS · Embeddings · Prompt Engineering |
+| **Tools** | Docker · Linux · Git · Streamlit · Jupyter |
+
+---
+
+## 🎓 Education
+
+| Institution | Program | Period |
+|---|---|---|
+| Baku Higher Oil School | B.Sc. Computer Engineering | 2023 – 2028 |
+| Holberton School | Machine Learning Program | 2025 – 2026 |
+| Ingress Academy | Data Science & Machine Learning | 2025 |
 
 ---
 
@@ -80,21 +98,24 @@ me.say_hi()
 
 | Certificate | Issuer |
 |---|---|
-| 🎓 Machine Learning Specialization | Stanford University |
-| 📊 Data Science & Machine Learning | Ingress Academy |
-| ✍️ Advanced Prompt Engineering | Vanderbilt University |
-| 🐧 Linux Fundamentals | LearnQuest |
-| 🐍 Python Data Structures | University of Michigan |
+| Machine Learning Specialization | Stanford University |
+| Advanced Prompt Engineering | Vanderbilt University |
+| Python Data Structures | University of Michigan |
+| Linux Fundamentals | LearnQuest |
+
+---
+
+## 🌐 Languages
+
+`Azerbaijani (Native)` · `English (C1 — Advanced)` · `Turkish (C1 — Advanced)`
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117" />
-
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117"/>
 </div>
 
 <div align="center">
@@ -110,7 +131,6 @@ me.say_hi()
 - 📚 Studying **Computer Engineering** @ Baku Higher Oil School
 - 🧪 Training at **Holberton School** — Machine Learning (2025–2026)
 - 🔭 Exploring **advanced RAG pipelines** and **multimodal AI**
-- ♟️ Playing Chess & Table Tennis when not training models
 
 ---
 
@@ -120,14 +140,13 @@ me.say_hi()
 
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:alii.iskandarlii@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Ali0lo)
-[![Telegram Bot](https://img.shields.io/badge/Telegram_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ailemecellesi_bot)
+[![Telegram Bot](https://img.shields.io/badge/Ailə_Məcəlləsi_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ailemecellesi_bot)
+[![RoleForge](https://img.shields.io/badge/RoleForge_App-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)](https://roleforge.streamlit.app)
 
 </div>
 
 ---
 
 <div align="center">
-
-*"The goal is to turn data into information, and information into insight."*
-
+<i>"The goal is to turn data into information, and information into insight."</i>
 </div>
