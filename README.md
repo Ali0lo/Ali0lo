@@ -15,8 +15,8 @@ class AliIskandarli:
         self.role        = "AI / ML Engineer"
         self.education   = ["Baku Higher Oil School (B.Sc. Computer Engineering)",
                             "Holberton School — Machine Learning Program"]
-        self.focus       = ["RAG Systems", "NLP", "Computer Vision", "LLMs"]
-        self.experience  = "SOCAR IT & Communication Department"
+        self.focus       = ["RAG Systems", "NLP", "Computer Vision", "LLMs", "Tool-Calling Agents"]
+        self.experience  = ["TÜBİTAK BİLGEM", "SOCAR IT & Communication Department"]
         self.contact     = "alii.iskandarlii@gmail.com"
 
     def say_hi(self):
@@ -27,6 +27,12 @@ class AliIskandarli:
 
 ## 💼 Work Experience
 
+**TÜBİTAK BİLGEM** — *Software Engineering Intern* · Jul – Aug 2026
+- Architected microservice-based AI application components and tool-calling agent integrations for intelligent task, meeting, and schedule management (Todotak)
+- Designed scalable backend microservices using FastAPI, PostgreSQL, and Redis behind an Nginx API Gateway
+- Integrated OpenAI function-calling LLM workflows for automated natural-language task handling, bulk rescheduling, and recurring rules
+- Implemented containerized deployment with Docker Compose and automated database migrations using Alembic
+
 **SOCAR IT & Communication Department** — *Help-Desk Manager* · Jun – Jul 2025
 - Diagnosed and resolved software and hardware issues for internal users in a large-scale enterprise IT environment
 - Documented recurring problems and contributed to a knowledge base for faster future triage
@@ -34,6 +40,12 @@ class AliIskandarli:
 ---
 
 ## 🚀 Featured Projects
+
+### 🗓️ Todotak — AI Task & Schedule Manager
+> AI-powered task, meeting, Pomodoro, and scheduling platform built on a 6-microservice architecture with an OpenAI tool-calling agent for natural-language task management, bulk rescheduling, and automated recurring rules.
+> **Stack:** Python · FastAPI · Next.js · OpenAI API · PostgreSQL · Redis · Docker · Microservices
+
+---
 
 ### 🤖 AI Legal Assistant — *Ailə Məcəlləsi*
 > RAG-based Telegram chatbot answering legal questions grounded in Azerbaijan's Family Code.
@@ -77,10 +89,11 @@ class AliIskandarli:
 
 | Domain | Tools & Concepts |
 |---|---|
-| **Languages & Data** | Python · Pandas · NumPy · SQL |
-| **ML & AI** | TensorFlow · Scikit-learn · CNNs · Feature Engineering |
-| **LLM & RAG** | LangChain · FAISS · Embeddings · Prompt Engineering |
-| **Tools** | Docker · Linux · Git · Streamlit · Jupyter |
+| **Languages & Data** | Python · Pandas · NumPy · SQL · C/C++ |
+| **ML & AI** | TensorFlow · Scikit-learn · CNNs · NLP · Computer Vision · Feature Engineering · OCR |
+| **LLM & RAG** | LangChain · FAISS · Embeddings · Prompt Engineering · OpenAI API · Tool-Calling Agents |
+| **Backend & Web** | FastAPI · Next.js · REST APIs · Microservices · Nginx API Gateway · PostgreSQL · Redis |
+| **Tools** | Docker · Linux · Git · Streamlit · Jupyter · Make · Pytest |
 
 ---
 
@@ -130,6 +143,7 @@ class AliIskandarli:
 
 - 📚 Studying **Computer Engineering** @ Baku Higher Oil School
 - 🧪 Training at **Holberton School** — Machine Learning (2025–2026)
+- 🛠️ Building **Todotak**, an AI-powered task & scheduling platform
 - 🔭 Exploring **advanced RAG pipelines** and **multimodal AI**
 
 ---
