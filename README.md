@@ -1,167 +1,85 @@
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ali+Iskandarli+%F0%9F%91%8B;AI+%2F+ML+Engineer;RAG+%7C+NLP+%7C+Computer+Vision;Turning+Data+into+Decisions)](https://git.io/typing-svg)
-
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Ali0lo&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS"/>
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ali+Iskandarli+%F0%9F%91%8B;AI+%26+Full-Stack+Systems+Engineer;Microservices+%7C+LLMs+%26+RAG+%7C+Distributed+Backends](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ali+Iskandarli+%F0%9F%91%8B;AI+%26+Full-Stack+Systems+Engineer;Microservices+%7C+LLMs+%26+RAG+%7C+Distributed+Backends)" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<!-- Top Contact & Live Deployment Badges -->
+<div align="center">
+  <a href="mailto:alii.iskandarlii@gmail.com"><img src="[https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)" alt="Email"/></a>
+  <a href="[https://ali0lo.github.io](https://ali0lo.github.io)"><img src="[https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=ffffff](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)" alt="Portfolio"/></a>
+  <a href="[https://tabletennisbhos.me](https://tabletennisbhos.me)"><img src="[https://img.shields.io/badge/BHOS_Table_Tennis-0D1117?style=for-the-badge&logo=vercel&logoColor=0EA5E9](https://img.shields.io/badge/BHOS_Table_Tennis-0D1117?style=for-the-badge&logo=vercel&logoColor=0EA5E9)" alt="BHOS Table Tennis"/></a>
+  <a href="[https://t.me/ailemecellesi_bot](https://t.me/ailemecellesi_bot)"><img src="[https://img.shields.io/badge/Legal_AI_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4](https://img.shields.io/badge/Legal_AI_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)" alt="Telegram Bot"/></a>
+  <img src="[https://komarev.com/ghpvc/?username=Ali0lo&style=for-the-badge&color=0ea5e9&label=VIEWS](https://komarev.com/ghpvc/?username=Ali0lo&style=for-the-badge&color=0ea5e9&label=VIEWS)" alt="Profile Views"/>
+</div>
+
+<br/>
 
 ## 🧠 About Me
 
-```python 
+```python
 class AliIskandarli:
     def __init__(self):
-        self.role        = "AI / ML Engineer"
-        self.education   = ["Baku Higher Oil School (B.Sc. Computer Engineering)",
-                            "Holberton School — Machine Learning Program"]
-        self.focus       = ["RAG Systems", "NLP", "Computer Vision", "LLMs", "Tool-Calling Agents"]
-        self.experience  = ["TÜBİTAK BİLGEM", "SOCAR IT & Communication Department"]
-        self.contact     = "alii.iskandarlii@gmail.com"
+        self.role       = "AI / ML & Backend Systems Engineer"
+        self.education  = [
+            "Baku Higher Oil School — B.Sc. Computer Engineering (4th Year)",
+            "Holberton School — Machine Learning Program"
+        ]
+        self.experience = [
+            "TÜBİTAK BİLGEM — Software Engineering Intern",
+            "SOCAR IT & Communication Dept — Help-Desk Manager"
+        ]
+        self.focus      = ["Tool-Calling Agents", "RAG Systems", "Microservices", "Self-Hosted Security"]
+        self.languages  = ["Azerbaijani (Native)", "English (C1)", "Turkish (C1)"]
+        self.contact    = "alii.iskandarlii@gmail.com"
 
     def say_hi(self):
-        print("Building AI that solves real-world problems.")
+        print("Architecting scalable backends and AI systems that solve real-world problems.")
 ```
-
----
 
 ## 💼 Work Experience
 
 **TÜBİTAK BİLGEM** — *Software Engineering Intern* · Jul – Aug 2026
-- Architected microservice-based AI application components and tool-calling agent integrations for intelligent task, meeting, and schedule management (Todotak)
-- Designed scalable backend microservices using FastAPI, PostgreSQL, and Redis behind an Nginx API Gateway
-- Integrated OpenAI function-calling LLM workflows for automated natural-language task handling, bulk rescheduling, and recurring rules
-- Implemented containerized deployment with Docker Compose and automated database migrations using Alembic
+- Architected microservice-based AI application components and tool-calling agent integrations for intelligent task, meeting, and schedule management (**Todotak**).
+- Designed scalable backend microservices using FastAPI, PostgreSQL, and Redis behind an Nginx API Gateway.
+- Integrated OpenAI function-calling LLM workflows for automated natural-language task handling, bulk rescheduling, and recurring rules.
+- Implemented containerized deployments with Docker Compose and automated database migrations using Alembic.
 
 **SOCAR IT & Communication Department** — *Help-Desk Manager* · Jun – Jul 2025
-- Diagnosed and resolved software and hardware issues for internal users in a large-scale enterprise IT environment
-- Documented recurring problems and contributed to a knowledge base for faster future triage
+- Diagnosed and resolved software, network, and hardware issues for internal users in a large-scale enterprise IT environment.
+- Documented recurring system issues and contributed to an internal knowledge base for faster triage.
 
----
+## 🚀 Featured Engineering & Systems
 
-## 🚀 Featured Projects
+* **[AUSA](https://github.com/Ali0lo)** — **Higher Education Route Planning Platform**
+  Open-source admissions and academic routing platform featuring a deterministic evaluation engine, automated test suites, and ML-backed recommendations across 36,000+ lines of code.
+  `FastAPI` · `Next.js` · `TypeScript` · `PostgreSQL` · `Scikit-learn`
 
-### 🗓️ Todotak — AI Task & Schedule Manager
-> AI-powered task, meeting, Pomodoro, and scheduling platform built on a 6-microservice architecture with an OpenAI tool-calling agent for natural-language task management, bulk rescheduling, and automated recurring rules.
-> **Stack:** Python · FastAPI · Next.js · OpenAI API · PostgreSQL · Redis · Docker · Microservices
+* **[Todotak](https://github.com/Ali0lo)** — **AI Task & Kanban Matrix Platform**
+  6-microservice productivity suite with a drag-and-drop Kanban matrix board, real-time synchronization, and an OpenAI tool-calling agent for natural-language task management and bulk rescheduling.
+  `Python` · `FastAPI` · `Next.js` · `PostgreSQL` · `Redis` · `Nginx` · `Docker`
 
----
+* **[PhishSim v3.0](https://github.com/Ali0lo)** — **Enterprise Security & Phishing Simulation Platform**
+  Self-hosted security awareness platform featuring Single Sign-On (SSO), TOTP 2FA, QR-code receipt quishing simulations, and automated repeat-offender training workflows.
+  `Python` · `FastAPI` · `PostgreSQL` · `Docker` · `Application Security`
 
-### 🤖 AI Legal Assistant — *Ailə Məcəlləsi*
-> RAG-based Telegram chatbot answering legal questions grounded in Azerbaijan's Family Code.
-> **Stack:** Python · LangChain · FAISS · Embeddings · Telegram API
-> 📲 **Live:** [@ailemecellesi_bot](https://t.me/ailemecellesi_bot)
-
----
-
-### 🎯 RoleForge — Career Reality Simulator
-> Analyzes your CV against real job requirements, calculates a role-readiness score, identifies critical skill gaps, and generates a personalized learning roadmap with timeline estimates.
-> **Stack:** Python · OpenAI API · Streamlit · NLP
-> 🌐 **Live:** [roleforge.streamlit.app](https://roleforge.streamlit.app)
-
----
-
-### 👥 Student Recommender System
-> Similarity-based recommendation engine matching students by interests and attributes, with a live Streamlit UI for real-time results.
-> **Stack:** Python · Pandas · Scikit-learn · Streamlit
-
----
-
-### 🖋️ OCR Model — SOCAR Historical Archives
-> Custom OCR pipeline to digitize handwritten historical documents for SOCAR's archives. Applied image preprocessing (denoising, binarization) and deep learning for text extraction.
-> **Stack:** Python · TensorFlow · CNNs · Image Processing
-
----
-
-### 📞 FAQ Chatbot Prototype — Azercell Telecom
-> Intelligent FAQ assistant for Azerbaijan's largest telecom provider, focused on intent recognition and reducing operator workload.
-> **Stack:** Python · NLP · Intent Classification
-
----
-
-### 🏠 House Price Prediction — Kaggle
-> End-to-end regression pipeline with feature engineering, data cleaning, and cross-validated evaluation.
-> **Stack:** Python · Scikit-learn · Pandas
-
----
+* **[BHOS Table Tennis Portal](https://tabletennisbhos.me)** & **[AI Legal Assistant](https://t.me/ailemecellesi_bot)** — **Live Production Deployments**
+  Full-stack tournament management, match approval, and ELO rating platform for Baku Higher Oil School (`tabletennisbhos.me`), alongside a RAG-powered Telegram bot answering legal queries grounded in Azerbaijan's Family Code.
+  `Next.js` · `TypeScript` · `Supabase` · `LangChain` · `FAISS` · `Telegram API`
 
 ## 🛠️ Tech Stack
 
-| Domain | Tools & Concepts |
+| Domain | Technologies & Tools |
 |---|---|
-| **Languages & Data** | Python · Pandas · NumPy · SQL · C/C++ |
-| **ML & AI** | TensorFlow · Scikit-learn · CNNs · NLP · Computer Vision · Feature Engineering · OCR |
-| **LLM & RAG** | LangChain · FAISS · Embeddings · Prompt Engineering · OpenAI API · Tool-Calling Agents |
-| **Backend & Web** | FastAPI · Next.js · REST APIs · Microservices · Nginx API Gateway · PostgreSQL · Redis |
-| **Tools** | Docker · Linux · Git · Streamlit · Jupyter · Make · Pytest |
+| **Languages** | Python · TypeScript · SQL · C/C++ · Bash / Zsh |
+| **Backend & Architecture** | FastAPI · Next.js · Microservices · PostgreSQL · Redis · Supabase · Nginx · REST APIs |
+| **AI & Machine Learning** | OpenAI API (Tool-Calling) · LangChain · FAISS · Scikit-learn · TensorFlow · Pandas · NumPy |
+| **DevOps & Tooling** | Docker · Kubernetes · Linux · Git · Alembic · Pytest · Make |
 
----
-
-## 🎓 Education
-
-| Institution | Program | Period |
-|---|---|---|
-| Baku Higher Oil School | B.Sc. Computer Engineering | 2023 – 2028 |
-| Holberton School | Machine Learning Program | 2025 – 2026 |
-| Ingress Academy | Data Science & Machine Learning | 2025 |
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer |
-|---|---|
-| Machine Learning Specialization | Stanford University |
-| Advanced Prompt Engineering | Vanderbilt University |
-| Python Data Structures | University of Michigan |
-| Linux Fundamentals | LearnQuest |
-
----
-
-## 🌐 Languages
-
-`Azerbaijani (Native)` · `English (C1 — Advanced)` · `Turkish (C1 — Advanced)`
-
----
-
-## 📈 GitHub Stats
+## 📈 GitHub Activity
 
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Ali0lo&theme=github-dark-blue&hide_border=true&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🎯 Currently
-
-- 📚 Studying **Computer Engineering** @ Baku Higher Oil School
-- 🧪 Training at **Holberton School** — Machine Learning (2025–2026)
-- 🛠️ Building **Todotak**, an AI-powered task & scheduling platform
-- 🔭 Exploring **advanced RAG pipelines** and **multimodal AI**
-
----
-
-## 📬 Connect With Me
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:alii.iskandarlii@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Ali0lo)
-[![Telegram Bot](https://img.shields.io/badge/Ailə_Məcəlləsi_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ailemecellesi_bot)
-[![RoleForge](https://img.shields.io/badge/RoleForge_App-0D1117?style=for-the-badge&logo=streamlit&logoColor=FF4B4B)](https://roleforge.streamlit.app)
-[![Website](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://ali0lo.github.io)
-
-</div>
-
----
-
-<div align="center">
-<i>"The goal is to turn data into information, and information into insight."</i>
+  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117)" alt="GitHub Stats"/>
+  <img height="160" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117)" alt="Top Languages"/>
 </div>
