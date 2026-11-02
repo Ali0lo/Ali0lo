@@ -78,7 +78,7 @@ class AliIskandarli:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali0lo&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali0lo&theme=github_dark)
 
 </div>
