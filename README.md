@@ -73,12 +73,3 @@ class AliIskandarli:
 | **Backend & Architecture** | FastAPI · Next.js · Microservices · PostgreSQL · Redis · Supabase · Nginx · REST APIs |
 | **AI & Machine Learning** | OpenAI API (Tool-Calling) · LangChain · FAISS · Scikit-learn · TensorFlow · Pandas · NumPy |
 | **DevOps & Tooling** | Docker · Kubernetes · Linux · Git · Alembic · Pytest · Make |
-
-## 📈 GitHub Activity
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ali0lo&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ali0lo&theme=github_dark)
-
-</div>
