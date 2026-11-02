@@ -1,17 +1,14 @@
 <!-- Typing SVG Header -->
 <div align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ali+Iskandarli+%F0%9F%91%8B;AI+%26+Full-Stack+Systems+Engineer;Microservices+%7C+LLMs+%26+RAG+%7C+Distributed+Backends](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ali+Iskandarli+%F0%9F%91%8B;AI+%26+Full-Stack+Systems+Engineer;Microservices+%7C+LLMs+%26+RAG+%7C+Distributed+Backends)" alt="Typing SVG" />
-  </a>
-</div>
 
-<!-- Top Contact & Live Deployment Badges -->
-<div align="center">
-  <a href="mailto:alii.iskandarlii@gmail.com"><img src="[https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)" alt="Email"/></a>
-  <a href="[https://ali0lo.github.io](https://ali0lo.github.io)"><img src="[https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=ffffff](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)" alt="Portfolio"/></a>
-  <a href="[https://tabletennisbhos.me](https://tabletennisbhos.me)"><img src="[https://img.shields.io/badge/BHOS_Table_Tennis-0D1117?style=for-the-badge&logo=vercel&logoColor=0EA5E9](https://img.shields.io/badge/BHOS_Table_Tennis-0D1117?style=for-the-badge&logo=vercel&logoColor=0EA5E9)" alt="BHOS Table Tennis"/></a>
-  <a href="[https://t.me/ailemecellesi_bot](https://t.me/ailemecellesi_bot)"><img src="[https://img.shields.io/badge/Legal_AI_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4](https://img.shields.io/badge/Legal_AI_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)" alt="Telegram Bot"/></a>
-  <img src="[https://komarev.com/ghpvc/?username=Ali0lo&style=for-the-badge&color=0ea5e9&label=VIEWS](https://komarev.com/ghpvc/?username=Ali0lo&style=for-the-badge&color=0ea5e9&label=VIEWS)" alt="Profile Views"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ali+Iskandarli+%F0%9F%91%8B;AI+and+Full-Stack+Systems+Engineer;Microservices+%7C+LLMs+and+RAG+%7C+Distributed+Backends)](https://git.io/typing-svg)
+
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:alii.iskandarlii@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://ali0lo.github.io)
+[![BHOS Table Tennis](https://img.shields.io/badge/BHOS_Table_Tennis-0D1117?style=for-the-badge&logo=vercel&logoColor=0EA5E9)](https://tabletennisbhos.me)
+[![Telegram Bot](https://img.shields.io/badge/Legal_AI_Bot-0D1117?style=for-the-badge&logo=telegram&logoColor=26A5E4)](https://t.me/ailemecellesi_bot)
+![Profile Views](https://komarev.com/ghpvc/?username=Ali0lo&style=for-the-badge&color=0ea5e9&label=VIEWS)
+
 </div>
 
 <br/>
@@ -80,6 +77,8 @@ class AliIskandarli:
 ## 📈 GitHub Activity
 
 <div align="center">
-  <img height="160" src="[https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117](https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117)" alt="GitHub Stats"/>
-  <img height="160" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117)" alt="Top Languages"/>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ali0lo&show_icons=true&theme=github_dark&hide_border=true&title_color=0ea5e9&icon_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ali0lo&layout=compact&theme=github_dark&hide_border=true&title_color=0ea5e9&text_color=c9d1d9&bg_color=0d1117)
+
 </div>
