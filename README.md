@@ -13,6 +13,12 @@
 
 <br/>
 
+<div align="center">
+  <img src="./streak-stats.svg" alt="GitHub Streak Stats" />
+</div>
+
+<br/>
+
 ## 🧠 About Me
 
 ```python
