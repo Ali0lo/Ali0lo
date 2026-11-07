@@ -13,12 +13,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="./streak-stats.svg" alt="GitHub Streak Stats" />
-</div>
-
-<br/>
-
 ## 🧠 About Me
 
 ```python
@@ -79,3 +73,9 @@ class AliIskandarli:
 | **Backend & Architecture** | FastAPI · Next.js · Microservices · PostgreSQL · Redis · Supabase · Nginx · REST APIs |
 | **AI & Machine Learning** | OpenAI API (Tool-Calling) · LangChain · FAISS · Scikit-learn · TensorFlow · Pandas · NumPy |
 | **DevOps & Tooling** | Docker · Kubernetes · Linux · Git · Alembic · Pytest · Make |
+
+<br/>
+
+<div align="center">
+  <img src="./streak-stats.svg" alt="GitHub Streak Stats" />
+</div>
